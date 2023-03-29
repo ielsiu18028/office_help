@@ -7,3 +7,4 @@ openpyxl==3.0.10
 streamlit-authenticator==0.2.1
 stringcase==1.2.0
 xlsxwriter==3.0.8
+xlrd==2.0.1
